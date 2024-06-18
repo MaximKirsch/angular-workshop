@@ -1,3 +1,3 @@
-# Folder Structure
+# 3. Generated Structures
 
-This topic has a side unit + untils that links to  archives, zoom calls and podcasts
+Angulars Architecture after running the generate cmd

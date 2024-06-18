@@ -1,3 +1,3 @@
-# Generating a Project
+# 2. Generating a Project
 
-This topic has 2 units - these have video resources
+Generating a Angular Project using it's CLI
