@@ -1,3 +1,3 @@
-# Template syntax
+# Generate a new Component
 
-In Angular, a *template* is a piece of HTML. Use special syntax inside a template to take advantage of many of Angular's features.
+In Angular, a _template_ is a piece of HTML. Use special syntax inside a template to take advantage of many of Angular's features.
