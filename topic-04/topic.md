@@ -1,3 +1,3 @@
-# 4. Routing and Apicalls
+# Generate a new Component
 
-Routing through the Website using router-outlet and Modules
+In Angular, a _template_ is a piece of HTML. Use special syntax inside a template to take advantage of many of Angular's features.
