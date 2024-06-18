@@ -1,3 +1,3 @@
-# Installing Angular
+# 1. Installing Angular
 
-This topic has 2 units - each unit has lectures + lab
+This topic is about installing Angular and what it's dependent on
