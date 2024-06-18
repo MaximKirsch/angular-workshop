@@ -1,3 +1,3 @@
-# 3. Generating your first component
+# Template syntax
 
-Generating reusable components in Angular using it's CLI
+In Angular, a *template* is a piece of HTML. Use special syntax inside a template to take advantage of many of Angular's features.
