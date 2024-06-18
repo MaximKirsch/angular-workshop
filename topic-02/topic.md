@@ -1,3 +1,3 @@
-# 2. Generating a Project
+# 1. Installing Angular
 
-Generating a Angular Project using it's CLI
+This topic is about installing Angular and what it's dependent on
