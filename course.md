@@ -1,3 +1,3 @@
-# Tutors Starter
+# Start with Angular
 
-A short description of the course. Normally this will not be visible, unless the course is aggregated into a portfolio of modules
+Start your journey with Angular. From Installing to the first Deployment.
