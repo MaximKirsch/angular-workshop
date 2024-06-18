@@ -1,3 +1,3 @@
-# 5. Deploying on Netlify
+# 4. Routing and Apicalls
 
-Deploying the Angular Project on Netlify, making it accessible for everyone
+Routing through the Website using router-outlet and Modules

@@ -1,3 +1,3 @@
-# Generate a new Component
+# 2. Generating a Project
 
-In Angular, a _template_ is a piece of HTML. Use special syntax inside a template to take advantage of many of Angular's features.
+Generating a Angular Project using it's CLI
