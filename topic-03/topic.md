@@ -1,3 +1,3 @@
-# 3. Generated Structures
+# 3. Generating your first component
 
-Angulars Architecture after running the generate cmd
+Generating reusable components in Angular using it's CLI

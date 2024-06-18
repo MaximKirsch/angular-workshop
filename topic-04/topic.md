@@ -1,3 +1,3 @@
-# 4. Generating your first component
+# 4. Routing and Modules
 
-Generating reusable components in Angular using it's CLI
+Routing through the Website using router-outlet and Modules
